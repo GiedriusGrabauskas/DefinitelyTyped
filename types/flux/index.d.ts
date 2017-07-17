@@ -10,4 +10,3 @@ import * as Dispatcher from "./lib/Dispatcher";
 export {
     Dispatcher
 };
-
